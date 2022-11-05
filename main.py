@@ -1,3 +1,4 @@
+#ФУНКЦИЯ СОЗДАНА НА УРОКЕ
 def my_superfunction():
     print("Привет колледж!")
 def main():
